@@ -1,4 +1,4 @@
-# Eventos El York
+# Eventos York & katy
 
 Aplicación para la gestión de eventos personales y profesionales. Permite organizar comidas, decoración, lugar del evento y otros servicios asociados.
 
@@ -16,7 +16,7 @@ Aplicación para la gestión de eventos personales y profesionales. Permite orga
 - Tkinter (o framework gráfico usado)
 - Recursos multimedia locales
 
-## 🚀 InstalaciónAgregado archivo README.md con la descripción del proyecto
+## 🚀 Instalación
 
 1. Clona este repositorio:
    ```bash
